@@ -34,10 +34,9 @@ Este repositorio contiene materiales relacionados con la **Teoría de Grafos** y
 ## Ejemplos Visuales
 
 ### Animación de Dodecaedro y BFS
+Esta animación muestra el proceso de recorrido en un dodecaedro utilizando el algoritmo BFS (Búsqueda en Anchura).
 
 ![Animación de Dodecaedro y BFS](dfs_dodecaedro_rotacion_lenta.gif)
-
-Esta animación muestra el proceso de recorrido en un dodecaedro utilizando el algoritmo BFS (Búsqueda en Anchura).
 
 ## Recursos adicionales
 
