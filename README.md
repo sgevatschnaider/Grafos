@@ -39,8 +39,6 @@ Este repositorio contiene materiales relacionados con la **Teoría de Grafos** y
 
 Esta animación muestra el proceso de recorrido en un dodecaedro utilizando el algoritmo BFS (Búsqueda en Anchura).
 
-
-
 ## Recursos adicionales
 
 - [Introduction to Graph Theory - Robin J. Wilson](https://link)
