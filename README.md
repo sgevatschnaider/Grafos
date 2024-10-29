@@ -30,6 +30,16 @@ Este repositorio contiene materiales relacionados con la **Teoría de Grafos** y
   1. Entender el uso de grafos en el análisis de redes sociales.
   2. Aplicar algoritmos de detección de comunidades y centralidad en redes.
   3. Usar estructuras de grafos para resolver problemas de optimización en grandes datasets.
+     
+## Ejemplos Visuales
+
+### Animación de Dodecaedro y BFS
+
+![Animación de Dodecaedro y BFS](dfs_dodecaedro_rotacion_lenta.gif)
+
+Esta animación muestra el proceso de recorrido en un dodecaedro utilizando el algoritmo BFS (Búsqueda en Anchura).
+
+
 
 ## Recursos adicionales
 
