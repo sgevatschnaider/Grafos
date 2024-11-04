@@ -1,6 +1,7 @@
 # Grafos
 
-Este repositorio contiene materiales relacionados con la **Teoría de Grafos** y sus aplicaciones en el ámbito de **Big Data**. Incluye clases, ejemplos prácticos, y proyectos personales sobre diversas áreas relacionadas con los grafos, como redes, algoritmos y estructuras matemáticas.
+Este repositorio contiene materiales relacionados con la Teoría de Grafos y sus aplicaciones en el ámbito de Big Data. Incluye clases, ejemplos prácticos y proyectos personales sobre diversas áreas relacionadas con los grafos, como redes, algoritmos y estructuras matemáticas.
+
 
 ## Contenido
 
@@ -44,6 +45,26 @@ Esta animación muestra el proceso de recorrido en un dodecaedro utilizando el a
 - [Graph Neural Networks: A Review](https://arxiv.org/abs/1901.00596)
 - [NetworkX Documentation](https://networkx.org/)
 
-## Colaboración
+- Uso del Repositorio
+Para clonar el repositorio y acceder a los notebooks:
 
-Si te interesa colaborar en este proyecto o tienes ideas relacionadas con la teoría de grafos y Big Data, siéntete libre de abrir una **Issue** o realizar un **Pull Request**.
+bash
+Copiar código
+git clone https://github.com/sgevatschnaider/Grafos.git
+cd Grafos
+jupyter notebook
+Abre el notebook de tu interés en Jupyter Notebook y ejecuta los ejemplos interactivos.
+
+
+Colaboración
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar los algoritmos, agregar nuevos ejemplos o proponer proyectos, no dudes en contribuir. Aquí tienes algunos pasos para colaborar:
+
+Haz un fork de este repositorio.
+Crea una nueva rama (git checkout -b feature/nueva-caracteristica).
+Realiza tus cambios y haz commit de ellos (git commit -m 'Añadir nueva característica').
+Haz push a la rama (git push origin feature/nueva-caracteristica).
+Abre un Pull Request para revisar tus cambios.
+Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+
