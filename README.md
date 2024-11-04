@@ -1,6 +1,6 @@
 # Grafos
 
-Este repositorio contiene materiales relacionados con la Teoría de Grafos y sus aplicaciones en el ámbito de Big Data. Incluye clases, ejemplos prácticos y proyectos personales sobre diversas áreas relacionadas con los grafos, como redes, algoritmos y estructuras matemáticas.
+Este repositorio está dedicado a explorar la Teoría de Grafos y sus aplicaciones en Big Data. Contiene una combinación de recursos teóricos, implementaciones prácticas y proyectos de aplicación que demuestran cómo los grafos pueden ser utilizados para resolver problemas complejos en análisis de redes, optimización de algoritmos y modelado de estructuras de datos. Los grafos ofrecen una poderosa herramienta matemática para representar y analizar grandes volúmenes de datos interconectados, común en ámbitos como redes sociales, recomendaciones de productos, y optimización de rutas.
 
 
 ## Contenido
